@@ -1,12 +1,37 @@
-# React + Vite
+🧩 GenUI — AI Component Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GenUI is an AI-powered tool that generates modern, reusable UI components instantly using the Gemini API.
+It helps developers speed up UI creation with real-time previews and one-click code downloads.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🤖 AI-generated UI components using the Gemini API
 
-## Expanding the ESLint configuration
+⚡ Built with React + Vite for fast performance and HMR
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Tailwind CSS styling for clean and responsive component output
+
+👁️ Live preview to visualize generated components instantly
+
+📥 One-click code download to integrate components directly into any project
+
+🧹 ESLint configuration for clean and consistent code quality
+
+📂 Tech Stack
+
+React (Vite)
+
+Tailwind CSS
+
+Gemini API
+
+JavaScript
+
+ESLint + PostCSS
+
+🚀 Getting Started
+# Install dependencies
+npm install
+
+# Run the project
+npm run dev
